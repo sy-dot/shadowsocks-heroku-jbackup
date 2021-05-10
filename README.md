@@ -1,2 +1,0 @@
-# shadowsocks-heroku-jbackup
- 
